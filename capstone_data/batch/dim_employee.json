@@ -1,0 +1,58 @@
+[
+	{
+		"EmployeeId" : 1,
+		"FirstName" : "Andrew",
+		"LastName" : "Adams",
+		"ReportsTo" : null,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 2,
+		"FirstName" : "Nancy",
+		"LastName" : "Edwards",
+		"ReportsTo" : 1,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 3,
+		"FirstName" : "Jane",
+		"LastName" : "Peacock",
+		"ReportsTo" : 2,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 4,
+		"FirstName" : "Margaret",
+		"LastName" : "Park",
+		"ReportsTo" : 2,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 5,
+		"FirstName" : "Steve",
+		"LastName" : "Johnson",
+		"ReportsTo" : 2,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 6,
+		"FirstName" : "Michael",
+		"LastName" : "Mitchell",
+		"ReportsTo" : 1,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 7,
+		"FirstName" : "Robert",
+		"LastName" : "King",
+		"ReportsTo" : 6,
+		"Country" : "Canada"
+	},
+	{
+		"EmployeeId" : 8,
+		"FirstName" : "Laura",
+		"LastName" : "Callahan",
+		"ReportsTo" : 6,
+		"Country" : "Canada"
+	}
+]
